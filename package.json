@@ -1,0 +1,17 @@
+{
+  "name": "pokerchipsmanager",
+  "version": "1.0.0",
+  "description": "Let's start I am in  I am finally in !!!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vercel": "^41.1.4",
+    "ws": "^8.18.0"
+  }
+}
